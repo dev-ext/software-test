@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<panelset>
+
+  <application colorIcon="true" docView="split" maximize="true" rect="232 0 1133 728"/>
+
+  <document maximize="true" rect="0 0 500 500"/>
+
+  <panelframe dock="left" height="677" width="236" x="0" y="12">
+    <panelcontainer expanded="true" height="205" visible="false">
+      <panel height="205" id="objects" showLabel="true" unconstrainedheight="208" unconstrainedwidth="208" viewStyle="tabs" width="232"/>
+    </panelcontainer>
+    <panelcontainer expanded="false" height="657" visible="true">
+      <panel height="657" id="css styles" unconstrainedheight="300" unconstrainedwidth="208" width="208"/>
+      <panel height="657" id="apElements" unconstrainedheight="300" unconstrainedwidth="208" width="208"/>
+      <panel height="657" id="tag inspector" unconstrainedheight="300" unconstrainedwidth="208" visibleTab="false" width="208"/>
+    </panelcontainer>
+    <panelcontainer expanded="true" height="634" visible="false">
+      <panel height="634" id="database" unconstrainedheight="208" unconstrainedwidth="208" width="208"/>
+      <panel height="634" id="data sources" unconstrainedheight="208" unconstrainedwidth="208" width="208"/>
+      <panel height="634" id="server scripts" unconstrainedheight="208" unconstrainedwidth="208" width="208"/>
+      <panel height="634" id="server components" unconstrainedheight="208" unconstrainedwidth="208" visibleTab="false" width="208"/>
+    </panelcontainer>
+    <panelcontainer expanded="true" height="634" visible="true">
+      <panel height="634" id="site" unconstrainedheight="300" unconstrainedwidth="232" width="232"/>
+      <panel height="634" id="assets" unconstrainedheight="300" unconstrainedwidth="232" width="232"/>
+      <panel height="634" id="snippets" unconstrainedheight="300" unconstrainedwidth="232" width="232"/>
+    </panelcontainer>
+    <panelcontainer expanded="true" height="180" visible="false">
+      <panel height="180" id="frames" unconstrainedheight="0" unconstrainedwidth="0" width="208"/>
+    </panelcontainer>
+    <panelcontainer expanded="true" height="180" visible="false">
+      <panel height="180" id="history" unconstrainedheight="0" unconstrainedwidth="0" width="208"/>
+    </panelcontainer>
+  </panelframe>
+
+  <panelframe dock="right" height="500" iconmodewidth="156" mode="icon" width="200" x="10" y="10">
+    <panelcontainer expanded="true" height="136" visible="false">
+      <panel height="136" id="BL" unconstrainedheight="250" unconstrainedwidth="250" visibleTab="false" width="250"/>
+    </panelcontainer>
+  </panelframe>
+
+  <panelframe dock="bottom" height="500" width="200" x="10" y="10">
+    <panelcontainer expanded="true" height="107" visible="false">
+      <panel height="107" id="propertiesMfc" unconstrainedheight="107" unconstrainedwidth="990" width="1195"/>
+    </panelcontainer>
+    <panelcontainer expanded="true" height="52" visible="false">
+      <panel height="52" id="properties" unconstrainedheight="52" unconstrainedwidth="820" width="990"/>
+    </panelcontainer>
+    <panelcontainer expanded="true" height="180" visible="false">
+      <panel height="180" id="search" unconstrainedheight="0" unconstrainedwidth="0" width="990"/>
+      <panel height="180" id="reference" unconstrainedheight="0" unconstrainedwidth="0" width="990"/>
+      <panel height="180" id="validation" unconstrainedheight="0" unconstrainedwidth="0" width="990"/>
+      <panel height="180" id="btc" unconstrainedheight="0" unconstrainedwidth="0" width="990"/>
+      <panel height="180" id="linkchecker" unconstrainedheight="0" unconstrainedwidth="0" width="990"/>
+      <panel height="180" id="reports" unconstrainedheight="0" unconstrainedwidth="0" width="990"/>
+      <panel height="180" id="ftp log" unconstrainedheight="0" unconstrainedwidth="0" width="990"/>
+      <panel height="180" id="server debug" unconstrainedheight="0" unconstrainedwidth="0" width="990"/>
+    </panelcontainer>
+  </panelframe>
+
+</panelset>
