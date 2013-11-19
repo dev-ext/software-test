@@ -159,7 +159,7 @@
   <SHORTCUT ID="DWMenu_View_Guides_Show"  keys="Cmd+;"/>
   <SHORTCUT ID="DWMenu_View_Guides_Locked"  keys="Cmd+Opt+;"/>
   <SHORTCUT ID="DWMenu_View_Guides_Snap"  keys="Cmd+Shift+;"/>
-  <SHORTCUT ID="DWMenu_View_Guides_SnapToElements"  keys="Cmd+Shift+/"/>
+  <SHORTCUT ID="DWMenu_View_Guides_SnapToElements"  keys=""/>
   <SHORTCUT ID="DWMenu_View_Guides_Edit"  keys=""/>
   <SHORTCUT ID="DWMenu_View_Guides_Clear"  keys=""/>
   <SHORTCUT ID="DWMenu_Guides_GuidePresets_640x480Default"  keys=""/>
@@ -847,7 +847,7 @@
   <SHORTCUT ID="DWShortcuts_HTMLSource_ScrollTopFile"  keys=""/>
   <SHORTCUT ID="DWShortcuts_HTMLSource_ScrollEndFile"  keys=""/>
   <SHORTCUT ID="DWShortcuts_HTMLSource_HTMLComment"  keys=""/>
-  <SHORTCUT ID="DWShortcuts_HTMLSource_JSBlockComment"  keys=""/>
+  <SHORTCUT ID="DWShortcuts_HTMLSource_JSBlockComment"  keys="Cmd+Shift+/"/>
   <SHORTCUT ID="DWShortcuts_HTMLSource_JSLineComment"  keys=""/>
   <SHORTCUT ID="Shortcuts_HTMLSource_VBComment"  keys=""/>
   <SHORTCUT ID="DWShortcuts_HTMLSource_ServerComment"  keys=""/>
